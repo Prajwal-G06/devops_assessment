@@ -60,6 +60,8 @@ This repository implements a full DevOps workflow for a full-stack Hello World a
 
 Test it with your local url.
 
+---
+
 ## 3. Provisioning AWS Infrastructure Using Terraform
 
 Terraform is used to provision and configure the complete AWS infrastructure required to run the application.
@@ -130,12 +132,14 @@ This allows the user_data script to finish installing Docker and adding the defa
 Docker will then work normally without sudo.
 
 ## Connect to the EC2 instance.
-# Create a project directory:
+### Create a project directory:
     ```bash
     mkdir app && cd app
     ```
 
 Create or upload the docker-compose.yml file from the project repository into this directory.
+
+---
 
 ## 4. Configure GitHub Secrets (Required for CI/CD)
 
@@ -163,6 +167,8 @@ These secrets are used by the GitHub Actions workflow to:
 - Deploy containers automatically using Docker Compose  
 
 No sensitive information is committed to the repository.
+
+---
 
 ## 5. CI/CD Deployment Flow
 
