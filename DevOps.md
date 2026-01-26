@@ -131,9 +131,9 @@ Docker will then work normally without sudo.
 
 ## Connect to the EC2 instance.
 ### Create a project directory:
-    ```bash
-    mkdir app && cd app
-    ```
+```bash
+mkdir app && cd app
+```
 
 Create or upload the docker-compose.yml file from the project repository into this directory.
 
@@ -187,3 +187,8 @@ On every push to the `master` branch, GitHub Actions automatically performs the 
 As a result, every code change is automatically built and deployed to the EC2 server without any manual intervention.
 
 This ensures a complete Continuous Integration and Continuous Deployment (CI/CD) workflow.
+
+## 🌍 Access the app here
+[Visit the live site here](ec2-13-232-190-194.ap-south-1.compute.amazonaws.com)
+
+
