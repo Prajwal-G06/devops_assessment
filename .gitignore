@@ -26,3 +26,15 @@ dist-ssr/
 # OS
 .DS_Store
 Thumbs.db
+
+# Terraform
+terraform/.terraform/
+terraform/terraform.tfstate*
+terraform/*.pem
+terraform.zip
+
+# General safety
+*.pem
+.terraform/
+terraform.tfstate*
+
