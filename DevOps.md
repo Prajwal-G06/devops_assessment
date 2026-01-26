@@ -75,8 +75,6 @@ Terraform is used to provision and configure the complete AWS infrastructure req
 
 All Terraform code is located inside the `terraform/` directory.
 
----
-
 ### Prerequisites
 
 Before running Terraform, ensure:
