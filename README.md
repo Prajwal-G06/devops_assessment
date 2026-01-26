@@ -188,6 +188,8 @@ As a result, every code change is automatically built and deployed to the EC2 se
 
 This ensures a complete Continuous Integration and Continuous Deployment (CI/CD) workflow.
 
+### Troubleshooting steps will be found in the **DevOps.md**, Please refer there.
+
 ## 🌍 Access the app here
 [Visit the live site here](http://ec2-13-232-190-194.ap-south-1.compute.amazonaws.com)
 

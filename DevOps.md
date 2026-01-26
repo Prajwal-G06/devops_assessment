@@ -1,4 +1,6 @@
-### 1. Frontend Not Connecting to Backend (localhost Issue)
+## Troubleshooting and Challenges Faced
+
+### Frontend Not Connecting to Backend (localhost Issue)
 
 **Problem:**  
 The frontend could not reach the backend API when both were running in Docker containers because `localhost` was used.
