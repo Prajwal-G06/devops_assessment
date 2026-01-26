@@ -29,9 +29,10 @@ Thumbs.db
 
 # Terraform
 terraform/.terraform/
+terraform/.terraform
 terraform/terraform.tfstate*
 terraform/*.pem
-terraform.zip
+terraform/.terraform.lock.hcl
 
 # General safety
 *.pem
