@@ -33,6 +33,7 @@ terraform/.terraform
 terraform/terraform.tfstate*
 terraform/*.pem
 terraform/.terraform.lock.hcl
+terraform.zip
 
 # General safety
 *.pem
