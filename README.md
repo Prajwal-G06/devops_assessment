@@ -190,7 +190,4 @@ This ensures a complete Continuous Integration and Continuous Deployment (CI/CD)
 
 #### Troubleshooting steps will be found in the [DevOps.md](DevOps.md), Please refer there.
 
-## 🌍 Access the app here
-[Visit the live site here](http://ec2-13-232-190-194.ap-south-1.compute.amazonaws.com/)
-
 
